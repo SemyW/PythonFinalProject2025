@@ -1,0 +1,9 @@
+type: marketplace
+title: Python课程期末项目2025
+language: English
+summary: Python编程基础2025的期末项目，包括3阶段的创意游戏开发
+programming_language: Python
+environment: unittest
+content:
+  - 期末项目
+yaml_version: 5
